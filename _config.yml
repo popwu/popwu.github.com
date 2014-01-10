@@ -1,4 +1,4 @@
-title:            "应声"
+title:            "至尊宝.吴伟"
 tagline:          "玩在世界"
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
@@ -30,14 +30,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: 关于我
     url: /about/
-  - title: Articles
+  - title: 博客
     url: /articles/
-  - title: Theme Setup
+  - title: 模板设置
     url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
