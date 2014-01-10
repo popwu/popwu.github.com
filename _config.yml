@@ -34,9 +34,9 @@ links:
     url: /about/
   - title: 博客
     url: /articles/
-  - title: 模板设置
-    url: /theme-setup/
-    external: true
+#  - title: 模板设置
+#    url: /theme-setup/
+#    external: true   # 弹出
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Shanghai
