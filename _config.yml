@@ -1,12 +1,12 @@
 title:            "至尊宝.吴伟"
-tagline:          "玩在世界"
-description:      Describe your website.
+tagline:          "探索在世界"
+description:      "忙忙碌碌，探索世界"
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://popwu.github.io
+url:              http://popwu.com
 
 # Owner/author information
 owner:
-  name:           POPWU
+  name:           吴伟
   avatar:         bio-photo.jpg
   #bio:            "Describe your self."
   email:          popwuwei@gmail.com
